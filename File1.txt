@@ -7,17 +7,18 @@ Change 2 in File 1
 Change 1:->   Changing to fix bug1 
 change 2:-> by team mate from remote added change:
 
-Change: ->  Changing to fix bug1 
-change: -> by team mate from remote added change:
-
+Change 3: ->  Changing to fix bug1 
+change 4: -> by team mate from remote added change:
 
 Changing to fix bug1 
 Changing to fix bug2
 
-
-change 3:  adding numbering
+change 5:->  adding numbering
 
 Change:-> to work on CR1 and added arrow
 Change done by team mate testing  github
 
 Change :-> testing reabse usign team mate github
+
+Change 6:->hello
+
