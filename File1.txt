@@ -5,5 +5,10 @@ Change 2 in File 1
 
 
 
+
 Change:   Changing to fix bug1 
 change: by team mate from remote added change:
+
+Changing to fix bug1 
+Changing to fix bug2
+
