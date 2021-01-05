@@ -4,9 +4,6 @@ Change 1 in File 1
 Change 2 in File 1
 
 
-
-
-
 Change 1:->   Changing to fix bug1 
 change 2:-> by team mate from remote added change:
 
@@ -21,5 +18,5 @@ Changing to fix bug2
 change 3:  adding numbering
 
 Change:-> to work on CR1 and added arrow
-
+Change done by team mate testing  github
 
